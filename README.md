@@ -1,4 +1,5 @@
-# Hi there, I'm Abdullah! 👋
+# Hi there, I'm Abdullah! 
+<img src="https://iam-weijie.github.io/wave/hand-emoji.svg" alt="Animated Emoji" width="50" height="50">
 
 🎓 **Software Engineering Student | Flutter & Mobile Developer | Automation Enthusiast**
 
