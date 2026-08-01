@@ -11,7 +11,7 @@ Whether it's architecting clean object-oriented code, configuring custom develop
 ### 🛠️ Tech Stack & Tools
 
 - **Mobile & Cross-Platform:** Flutter, Dart
-- **Languages & Frameworks:** C#, .NET, Python
+- **Languages & Frameworks:** C#, .NET, Python, C/C++, Java, Assembly, ...etc
 - **Automation & AI:** n8n, AI Agents & Workflow Design
 - **Development Tools:** VS Code, Git, GitHub, Linux
 
