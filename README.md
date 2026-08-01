@@ -34,14 +34,6 @@ Whether it's architecting clean object-oriented code, configuring custom develop
 
 ---
 
-### 📫 Connect With Me
-
-- **LinkedIn:** [Your-LinkedIn-Handle](https://linkedin.com/in/your-profile)
-- **Portfolio / Blog:** [Your Website Link](https://yourwebsite.com) *(Optional)*
-- **Email:** `your.email@example.com`
-
----
-
 <p center>
   <i>"Code is like humor. When you have to explain it, it’s bad."</i>
 </p>
