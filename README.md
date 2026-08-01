@@ -29,7 +29,7 @@ Whether it's architecting clean object-oriented code, configuring custom develop
 ### ⚡ Beyond the Code
 
 - 🧱 **Gamer & Modder:** Passionate about heavily modded Minecraft setups and launcher tweaking.
-- 🍿 **Anime & Manga Fan:** Always down to discuss rom-com classics (big fan of *Monogatari*, *Kaguya-sama*, and *Toradora!*).
+- 🍿 **Anime & Manga Fan:** Always down to discuss rom-com classics (big fan of *Sousou no Frieren*, *Make Heroine ga Oosugiru*, *OreGairu*, and more...!).
 - 🛠️ **Tinkerer:** Love customizing dev environments, terminals, and software setups.
 
 ---
